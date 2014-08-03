@@ -1,4 +1,12 @@
-theplague
-=========
+# theplague
 
-theplague - Simple Ops Dashboard and DevOps API
+Coming soon ...
+
+ingredients:
+
+ - Active Directory Authentification
+ - Python
+ - Flask
+ - MySQL
+ - Ansible
+ - winrm
